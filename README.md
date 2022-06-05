@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Maron-Wilsons</h1>
+<h1 align="center">Hi <img width="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maron-Wilsons</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maron-wilsons&label=Profile%20views&color=0e75b6&style=flat" alt="maron-wilsons" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
