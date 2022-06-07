@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maron-wilsons&show_icons=true&locale=en" alt="maron-wilsons" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maron-wilsons&" alt="maron-wilsons" /></p>
 
